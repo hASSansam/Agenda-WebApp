@@ -1,57 +1,52 @@
 ﻿# Agenda-WebApp
 
 ## Requirements for the Agenda Web App
-**Purpose**
+### Purpose
+
 The main objective of this web app is to provide users with a tool for daily activity planning and management.
 
-**Functional Requirements**
-**User Registration**
-- Users should be able to create an account using an email address and a password. (User)
-- It should be possible to log in with the registered credentials. (User)
+## Functional Requirements
+### User Registration
 
-**Event Creation**
+Users should be able to create an account using an email address and a password. (User)
+
+It should be possible to log in with the registered credentials. (User)
+
+### Event Creation
 - Users should be able to create events by specifying a title, date, and time. (User)
 - The option to add additional details to the event, such as description, location, and categories, should be provided. (User)
 
-**Viewing and Managing Events**
+### Viewing and Managing Events
 - Users should be able to view a list of scheduled events. (User)
 - It must be possible to edit or delete previously created events. (User)
 - Events should be sorted by date and time. (System)
 
-**Notifications**
+### Notifications
 - Users should be able to set notifications for events, with options for email or in-app notifications. (User)
 
-**Search and Filters**
+### Search and Filters
 - The web app should allow users to search for events by date, title, or category. (User)
 - Filter options should be provided to simplify event viewing. (User)
 
-**Non-Functional Requirements**
-**Security**
+## Non-Functional Requirements
+### Security
 - The web app must ensure the security and protection of user data. (System)
 - User passwords must be encrypted during storage. (System)
 
-**Usability**
+### Usability
 - The application should have an intuitive and user-friendly user interface. (User)
 - The interface design should be responsive to support desktop and mobile devices. (System)
 
-**Performance**
-- The web app must be responsive and fast in managing events and notifications. (System)
-- Latency should be kept to a minimum. (System)
 
-**Backup and Restore**
+### Backup and Restore
 - A periodic data backup system for user data should be implemented. (System)
 - Users should be able to restore data in case of loss or errors. (User)
 
-**Technical Requirements**
-**Web Technologies**
-- The web app should be developed using modern web technologies such as HTML, CSS, and JavaScript. (System)
-- Consideration should be given to using a JavaScript framework like React or Angular. (System)
 
-**Database**
+### Database
 - A database management system should be used to store user data and events. (System)
 
-**Hosting and Domains**
-- The web app should be hosted on a web server with an associated domain. (System)
+
 
 # UML Diagram
 
