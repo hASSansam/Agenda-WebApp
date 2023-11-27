@@ -1,4 +1,5 @@
 ﻿# Agenda-WebApp - We keep you and your team always connected and organized
+ ## We Allow you and your team to connect to each other and keep yourselves organized by creating dedicated spaces where you can add notes and events to always be on the point.
 
 ## Requirements for the Agenda Web App
 ### Purpose
